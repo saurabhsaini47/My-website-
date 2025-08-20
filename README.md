@@ -102,7 +102,7 @@
   
   <section id="about">
   <h2>About</h2>
-  <p>My name is Saurabh Saini. I am learning web development and building small projects.</p>
+  <p>My name is Saurabh Saini katariya. I am learning web development and building small projects.</p>
     <img src="IMG_20220206_122553.jpg" alt="Saurabh Saini Photo" width="100px" style="border-radius: 10px;">
     
 
