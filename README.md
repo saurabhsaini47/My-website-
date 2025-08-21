@@ -85,7 +85,7 @@
 
   <section id="home">
     <h2>Home</h2>
-    <p>This is a simple website created using HTML only.</p>
+    <p>This is a simple website created using HTML and CSS only.</p>
     <p>Email validation project into the project section.</p>
     <h2>FULL STACK DEVELOPER</h2>
     <p>Frontend</p>
@@ -102,7 +102,7 @@
   
   <section id="about">
   <h2>About</h2>
-  <p>My name is Saurabh Saini katariya. I am learning web development and building small projects.</p>
+  <p>My name is Saurabh Saini katariya. I am learning web development and building small projects.And my first project name is EMAIL VALIDATION </p>
     <img src="IMG_20220206_122553.jpg" alt="Saurabh Saini Photo" width="100px" style="border-radius: 10px;">
     
 
@@ -169,7 +169,7 @@ if __name__ == "__main__":
    
 
   <footer>
-    <p>© 2025 Saurabh Saini/sainisaurabh794@gmail.com | All Rights Reserved</p>
+    <p>© 2025 Saurabh SainiSKKATARIYA  | All Rights Reserved</p>
   </footer>
 
 </body>
