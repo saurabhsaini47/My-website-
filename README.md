@@ -150,7 +150,7 @@
         return False
       return True
 if __name__ == "__main__":
-    email = input("Enter your email: ")
+    email = input("Enter your email here: ")
 
     if is_valid_email(email):
         print("✅ Valid Email!")
